@@ -41,7 +41,7 @@ print("Variance is : " + str(var));
 ```
 # Calculation:
 
-![WhatsApp Image 2025-09-13 at 15 28 32_cd66eb0d](https://github.com/user-attachments/assets/9be0d7b5-8576-47e8-909b-769176380898)
+![WhatsApp Image 2025-09-19 at 10 57 33_86549d9c](https://github.com/user-attachments/assets/4d5c1248-0da9-4cb5-b62e-f2ed7da890fc)
 
 
 # Output
